@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>~/NewsAd/image025.jpg</ImageUrl>
+    <NavigateUrl>http://www.asp.net</NavigateUrl>
+    <AlternateText>Ad 1</AlternateText>
+    <Keyword>w</Keyword>
+    <Impressions>1</Impressions>
+    <Caption>This is the caption for Ad#1</Caption>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>~/NewsAd/image029.jpg</ImageUrl>
+    <NavigateUrl>http://www.asp.net</NavigateUrl>
+    <AlternateText>Ad 2</AlternateText>
+    <Keyword>w</Keyword>
+    <Impressions>1</Impressions>
+    <Caption>This is the caption for Ad#2</Caption>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>~/NewsAd/image083.jpg</ImageUrl>
+    <NavigateUrl>http://www.asp.net</NavigateUrl>
+    <AlternateText>Ad 3</AlternateText>
+    <Keyword>w</Keyword>
+    <Impressions>1</Impressions>
+    <Caption>This is the caption for Ad#3</Caption>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>~/NewsAd/image087.jpg</ImageUrl>
+    <NavigateUrl>http://www.asp.net</NavigateUrl>
+    <AlternateText>Ad 4</AlternateText>
+    <Keyword>w</Keyword>
+    <Impressions>1</Impressions>
+    <Caption>This is the caption for Ad#4</Caption>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>~/NewsAd/Abstract.jpg</ImageUrl>
+    <NavigateUrl>http://www.asp.net</NavigateUrl>
+    <AlternateText>Ad 5</AlternateText>
+    <Keyword>w</Keyword>
+    <Impressions>2</Impressions>
+    <Caption>This is the caption for Ad#5</Caption>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>~/NewsAd/mcrosoft.jpg</ImageUrl>
+    <NavigateUrl>http://www.asp.net</NavigateUrl>
+    <AlternateText>Ad 6</AlternateText>
+    <Keyword>w</Keyword>
+    <Impressions>2</Impressions>
+    <Caption>This is the caption for Ad#6</Caption>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>~/NewsAd/sport04.jpg</ImageUrl>
+    <NavigateUrl>http://www.asp.net</NavigateUrl>
+    <AlternateText>Ad 7</AlternateText>
+    <Keyword>w</Keyword>
+    <Impressions>1</Impressions>
+    <Caption>This is the caption for Ad#7</Caption>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>~/NewsAd/logo_vodafone2 (1).gif</ImageUrl>
+    <NavigateUrl>http://www.asp.net</NavigateUrl>
+    <AlternateText>Ad 8</AlternateText>
+    <Keyword>w</Keyword>
+    <Impressions>1</Impressions>
+    <Caption>This is the caption for Ad#8</Caption>
+  </Ad>
+</Advertisements>

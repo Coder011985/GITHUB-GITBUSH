@@ -1,0 +1,80 @@
+﻿body
+{
+}
+.container
+{
+	width: 940px;
+	margin: 0px auto;
+	/*background-color: Black;
+	height:300px;*/
+}
+.row
+{
+	margin-left: -20px;
+	/*background-color: Maroon;*/
+}
+.row:after
+{
+	clear:both;
+}
+.row:after,.row:before
+{
+	content:"";
+	display:table;
+}
+ [class *="col-"]
+{
+	float: left;
+	margin-left: 20px;
+	/*background-color: Green;
+	margin-bottom: 20px;
+	height: 30px;*/
+}
+.col-1
+{
+	width:60px;
+}
+.col-2
+{
+	width:140px;
+}
+.col-3
+{
+	width:220px;
+}
+.col-4
+{
+	width:300px;
+}
+.col-5
+{
+	width:380px;
+}
+.col-6
+{
+	width:460px;
+}
+.col-7
+{
+	width:540px;
+}
+.col-8
+{
+	width:620px;
+}
+.col-9
+{
+	width:700px;
+}
+.col-10
+{
+	width:780px;
+}
+.col-11
+{
+	width:860px;
+}
+.col-12
+{
+	width:940px;
+}
